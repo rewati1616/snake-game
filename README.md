@@ -32,7 +32,7 @@ Control the snake, eat food, grow longer, and try to achieve the highest score w
 git clone https://github.com/rewati1616/snake-game.git
 ```
 
-### 2️⃣ Open the project folder
+### 2️⃣ Open the project folder 
 
 ```bash
 cd snake-game
