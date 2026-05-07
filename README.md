@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Snake Game 
 
 A fun and interactive Snake Game built using **HTML, CSS, and JavaScript**.  
 Control the snake, eat food, grow longer, and try to achieve the highest score without hitting the walls or yourself.
