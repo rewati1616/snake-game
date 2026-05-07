@@ -5,7 +5,7 @@ Control the snake, eat food, grow longer, and try to achieve the highest score w
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🎮 Smooth snake movement
 - 🍎 Random food generation
